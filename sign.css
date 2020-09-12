@@ -1,0 +1,14 @@
+.nicec {
+	background-color: #001433;
+}
+
+.cb {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		url('https://cdn.pixabay.com/photo/2013/10/02/23/03/dawn-190055_960_720.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.fp {
+	background-color: rgb(235, 248, 250);
+}

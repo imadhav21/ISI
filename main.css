@@ -1,0 +1,42 @@
+.nicec {
+	background-color: #001433;
+}
+
+.fp {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.753)),
+		url('https://www.rentcollegepads.com/blog/wp-content/uploads/2016/09/15085516080_332ba3c5ce_k.jpg');
+	background-repeat: none;
+	background-size: cover;
+
+	min-height: 90vh;
+}
+
+.color {
+	color: rgba(245, 245, 245, 0.856);
+}
+
+.sp {
+	background: linear-gradient(
+		180deg,
+		rgba(255, 255, 255, 1) 0%,
+		rgba(220, 243, 244, 1) 40%,
+		rgba(220, 245, 226, 1) 65%,
+		rgba(213, 241, 236, 1) 98%
+	);
+	min-height: 100vh;
+}
+
+.big {
+	font-size: 130%;
+}
+
+.fc {
+}
+
+.image1 {
+	clip-path: circle();
+	float: left;
+	width: 130px;
+	height: 130px;
+	background-size: cover;
+}
